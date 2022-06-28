@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleAlarmTimerView">
+        <attr name="catv_bg_color" format="color" />
+        <attr name="catv_text_color" format="color" />
+        <attr name="catv_text_size" format="dimension" />
+        <attr name="catv_circle_button_color" format="color" />
+        <attr name="catv_arc_track_color" format="color" />
+        <attr name="catv_line_color" format="color" />
+    </declare-styleable>
+</resources>
